@@ -17,6 +17,10 @@ function increaseCounter() {
   count++;
   document.getElementById("count").innerText = count;
 }
+function increaseCounter1() {
+  count--;
+  document.getElementById("count").innerText = count;
+}
 
 function getRandomColor() {
   var letters = '0123456789ABCDEF';
