@@ -9,7 +9,7 @@ body {
     color: #333;
   }
   
-  #esconder, #cor, #contador {
+  #esconder, #cor, #contador, #dentador {
     background-color: #3498db;
     color: white;
     padding: 10px 20px;
